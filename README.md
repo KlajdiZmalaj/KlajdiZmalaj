@@ -19,4 +19,4 @@ I know how to use languages like : HTML5 (semantic),CSS (css3/Scss/SaSS/bootstra
 <br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can find me:
 [![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-z-42b582142/)](https://www.linkedin.com/in/klajdi-z-42b582142/)
 [![GitHub MianJawadAhmad](https://img.shields.io/github/followers/KlajdiZmalaj?label=follow&style=social)](https://github.com/KlajdiZmalaj)
-<p><a href="https://klajdizmalaj.com">🌐 Check out my website</a></p>
+<p><a href="http://klajdizmalaj.com/">🌐 Check out my website</a></p>
