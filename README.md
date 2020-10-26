@@ -12,11 +12,11 @@ I know how to use languages like : HTML5 (semantic),CSS (css3/Scss/SaSS/bootstra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlajdiZmalaj&show_icons=true)
-Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can **find me. Currently I'm **free to contribute**
+<br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can **find me. Currently I'm **free to contribute**
 [![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-z-42b582142/)](https://www.linkedin.com/in/klajdi-z-42b582142/)
 [![GitHub MianJawadAhmad](https://img.shields.io/github/followers/KlajdiZmalaj?label=follow&style=social)](https://github.com/KlajdiZmalaj)
 <p><a href="https://klajdizmalaj.com">🌐 Check out my website</a></p>
