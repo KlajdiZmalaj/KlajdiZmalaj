@@ -6,7 +6,7 @@ One year later I decided to join a professional school, an ICT school where ther
 
 Now I'm working as a Front End Developer in a company in Albania
 
-I know how to use languages like : HTML5 (semantic),CSS (css3/Scss/SaSS/bootstrap v3-v4), JavaScript , jQuery library, React JS , SQL , PHP and as a graphic designer I can use app like Photoshop and Illustrator..
+I know how to use languages like : HTML5 (semantic),CSS (css3/Scss/SaSS/bootstrap v3-v4), JavaScript , jQuery library, React JS , NodeJS, MangoDB and I can use app like Photoshop and Illustrator..
 <br>
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
