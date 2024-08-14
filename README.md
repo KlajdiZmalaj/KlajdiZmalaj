@@ -16,6 +16,6 @@ enabling me to build pixel perfect and scalable web applications with a consiste
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlajdiZmalaj&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klajdizmalaj&layout=compact&theme=onedark)](https://github.com/klajdizmalaj) --><br>
 <br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can find me:
-[![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-z-42b582142/)](https://www.linkedin.com/in/klajdi-z-42b582142/)
+[![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)](https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)
 [![GitHub KlajdiZmalaj](https://img.shields.io/github/followers/KlajdiZmalaj?label=follow&style=social)](https://github.com/KlajdiZmalaj)
 <p><a target='_blank' href="http://klajdizmalaj.com/">🌐 Check out my website</a></p>
