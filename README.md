@@ -1,12 +1,6 @@
-**Happy to see you here!** :star_struck: <br> Looking for a strategist and experienced web developer? :running_man: - I've always been passionate about website development.
-
-Since I was very young I started playing with codes, in the 9th grade i created my first website.
-
-One year later I decided to join a professional school, an ICT school where there I learned about web developing.
-
-Now I'm working as a Front End Developer in a company in Albania
-
-I use languages and tools like : HTML5 (semantic),CSS (css3/Scss/SaSS/bootstrap v3-v4), JavaScript , jQuery library, React JS , NodeJS, MangoDB and I can use app like Photoshop and Illustrator..
+**Happy to see you here!** :star_struck: <br> 
+I am a front-end developer with over 6 years of experience in building dynamic and responsive web applications ( also mobile apps ). My expertise lies in leveraging modern technologies to create seamless user experiences. I have a strong proficiency in React.js and Next.js,
+enabling me to build pixel perfect and scalable web applications with a consistent look and feel.
 <br>
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
