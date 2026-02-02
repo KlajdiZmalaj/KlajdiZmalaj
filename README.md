@@ -12,9 +12,4 @@ enabling me to build pixel perfect and scalable web applications with a consiste
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klajdizmalaj&layout=compact&theme=onedark)](https://github.com/klajdizmalaj) --><br>
-<br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can find me:
-[![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)](https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KlajdiZmalaj&theme=gruvbox&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
-<p><a target='_blank' href="http://klajdizmalaj.com/">🌐 Check out my website</a></p>
+
