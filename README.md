@@ -1,5 +1,5 @@
 **Happy to see you here!** :star_struck: <br> 
-I am a front-end developer with over 6 years of experience in building dynamic and responsive web applications ( also mobile apps ). My expertise lies in leveraging modern technologies to create seamless user experiences. I have a strong proficiency in React.js and Next.js,
+I am a front-end developer with over 8 years of experience in building dynamic and responsive web applications ( also mobile apps ). My expertise lies in leveraging modern technologies to create seamless user experiences. I have a strong proficiency in React.js and Next.js,
 enabling me to build pixel perfect and scalable web applications with a consistent look and feel.
 <br>
 **Languages and Tools:**
@@ -17,5 +17,5 @@ enabling me to build pixel perfect and scalable web applications with a consiste
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klajdizmalaj&layout=compact&theme=onedark)](https://github.com/klajdizmalaj) --><br>
 <br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can find me:
 [![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)](https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)
-[![GitHub KlajdiZmalaj](https://img.shields.io/github/followers/KlajdiZmalaj?label=follow&style=social)](https://github.com/KlajdiZmalaj)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KlajdiZmalaj&theme=gruvbox&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
 <p><a target='_blank' href="http://klajdizmalaj.com/">🌐 Check out my website</a></p>
