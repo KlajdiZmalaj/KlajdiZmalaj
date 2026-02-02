@@ -13,7 +13,6 @@ enabling me to build pixel perfect and scalable web applications with a consiste
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlajdiZmalaj&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klajdizmalaj&layout=compact&theme=onedark)](https://github.com/klajdizmalaj) --><br>
 <br> Outside of [GitHub](https://github.com/KlajdiZmalaj/), You can find me:
 [![Linkedin: Klajdi Zmalaj](https://img.shields.io/badge/-KlajdiZmalaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)](https://www.linkedin.com/in/klajdi-zmalaj-42b582142/)
